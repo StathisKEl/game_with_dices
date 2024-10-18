@@ -12,8 +12,8 @@ The initial score is as follows:
   the score is 4 for consecutive values on the three dice starting with the value four on the first dice
 
 In case of the two players have the same initial score the winner is determined according to the following rules:
-  if both players have initial score 1 or initial score 3 the winner is the player with the highest sum and his/her final score is the initial score plus one and if both players have the same sum then there is no winner (tie),
-  if both players have initial score 2 the player with the highest value in the unique dice is the winner and his/her final score is the initial score plus one and if the value in the unique dice of each player is the same then there is no winner (tie),
+  if both players have initial score 1 or initial score 3 the winner is the player with the highest sum and his/her final score is the initial score plus one (if both players have the same sum then there is no winner (tie)),
+  if both players have initial score 2 the player with the highest value in the unique dice is the winner and his/her final score is the initial score plus one (if the value in the unique dice of each player is the same then there is no winner (tie)),
   if both players have initial score 4 there is no winner (tie)
 
 In case of the two players have different initial score the winner is the player with the highest initial score and his/her final score is his/her initial score
